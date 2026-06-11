@@ -1,5 +1,5 @@
-const PROJECT_LINK = "#";
-const WHATSAPP_NUMBER = "";
+const PROJECT_LINK = "https://www.onlinegdb.com/login";
+const WHATSAPP_NUMBER = "8607957739";
 
 const revealItems = document.querySelectorAll(".reveal");
 const observer = new IntersectionObserver(
