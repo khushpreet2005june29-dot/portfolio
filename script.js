@@ -20,7 +20,7 @@ projectLink.href = PROJECT_LINK;
 projectLink.addEventListener("click", (event) => {
   if (!PROJECT_LINK || PROJECT_LINK === "#") {
     event.preventDefault();
-    alert("Please add your project link in script.js first.");
+   
   }
 });
 
