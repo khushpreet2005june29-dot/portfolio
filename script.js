@@ -36,6 +36,6 @@ document.getElementById("contactForm").addEventListener("submit", (event) => {
   }
 
   const text = `Hello Khushpreet, my name is ${name}. ${message}`;
-  const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
+  const whatsappUrl = `https://wa.me/${8607957739}?text=${encodeURIComponent(text)}`;
   window.open(whatsappUrl, "_blank", "noopener");
 });
